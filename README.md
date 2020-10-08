@@ -5,4 +5,4 @@
 ## Key Features
 - [x] Built with Django + Celery + Pandas + ❤️
 - [x] Export Into Excel With Progress Bar
-- [x] Import From Execl With Progress Bar
+- [x] Import From Excel With Progress Bar
