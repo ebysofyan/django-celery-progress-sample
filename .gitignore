@@ -2,6 +2,7 @@ media/
 media/*
 static/resources/
 static/resources/*
+static/root/
 .vscode/
 .vscode/*
 .scannerwork/
